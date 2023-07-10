@@ -1,0 +1,34 @@
+{
+  "location": {
+    "name": "New York City",
+    "country": "United States",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  "current": {
+    "temperature": 25,
+    "weather_code": "sunny",
+    "humidity": 60,
+    "wind_speed": 10
+  },
+  "forecast": [
+    {
+      "date": "2023-06-06",
+      "temperature_min": 22,
+      "temperature_max": 28,
+      "weather_code": "partly_cloudy"
+    },
+    {
+      "date": "2023-06-07",
+      "temperature_min": 20,
+      "temperature_max": 25,
+      "weather_code": "rainy"
+    },
+    {
+      "date": "2023-06-08",
+      "temperature_min": 18,
+      "temperature_max": 24,
+      "weather_code": "cloudy"
+    }
+  ]
+}
